@@ -3,7 +3,7 @@
 ### Season 5
 **Start date**: April 10, 2024
 
-[Solana Handbook](https://ackee.xyz/solana-handbook.pdf)
+[Solana Handbook](./handbook/solana-handbook.pdf)
 
 #### Lecture 1: [Introduction to Solana and Blockchain](https://youtu.be/okqyfP_h_54)
 
