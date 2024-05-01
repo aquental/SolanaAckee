@@ -13,9 +13,7 @@
 
 #### Lecture 3: [Solana programming model I](https://www.youtube.com/watch?v=Plp4y27LNWs)
 > Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will review all the important core concepts of Solana development: Accounts structure, Program Derived Addresses, Handling errors, and Cross-Program Invocations.
-> > [task 3](https://classroom.github.com/a/VMQjNzs3)
-> > 
-> > 📆 due May 1, 2024
+
 
 #### Lecture 4: Solana programming model II
 > 
