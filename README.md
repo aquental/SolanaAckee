@@ -15,8 +15,12 @@
 > Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will review all the important core concepts of Solana development: Accounts structure, Program Derived Addresses, Handling errors, and Cross-Program Invocations.
 
 
-#### Lecture 4: Solana programming model II
+#### Lecture 4: [Solana programming model II](https://youtu.be/Cai1Orc1NuI)
+> Task: [4](https://classroom.github.com/a/iEi2MHNR)
+>
+> 💻 Lecture 4 [source code](https://github.com/Ackee-Blockchain/wsos-bank)
 > 
+> 📆 due May 15, 2024, 23:59 UTC
 
 #### Lecture 5: Best development practices and debugging
 > Develop like a pro! In this lecture, we will show you some of the best development practices and give you tips and tricks to debug your programs so you can get up to speed quickly.
