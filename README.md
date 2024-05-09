@@ -22,8 +22,14 @@
 > 
 > 📆 due May 15, 2024, 23:59 UTC
 
-#### Lecture 5: Best development practices and debugging
+#### Lecture 5: [Best development practices and debugging](https://www.youtube.com/watch?v=rL1fqxUnqOQ)
 > Develop like a pro! In this lecture, we will show you some of the best development practices and give you tips and tricks to debug your programs so you can get up to speed quickly.
+>
+> Task: [5](https://github.com/School-of-Solana/solana-program-aquental)
+>
+> 💻 Lecture 5 [source code](https://github.com/Ackee-Blockchain/sos-debugging-lecture)
+>
+> 📆 due May 29, 2024, 23:59 UTC
 
 #### Lecture 6: Front-end for Solana Programs
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
