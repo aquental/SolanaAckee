@@ -33,6 +33,9 @@
 
 #### Lecture 6: [Security](https://www.youtube.com/watch?v=Qkf9QwSfHAM)
 > Hackers away! This lecture will introduce common vulnerability issues in Solana programs, how they can be exploited, and, most importantly, how to avoid them.
+> Task: [5](https://github.com/School-of-Solana/task5-aquental)
+>
+> 📆 Task 5 is due May 22, 2024, 23:59 UTC
 
 #### Lecture 7: Front-end for Solana Programs
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
