@@ -31,11 +31,11 @@
 >
 > 📆 due May 29, 2024, 23:59 UTC
 
-#### Lecture 6: Front-end for Solana Programs
-> Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
-
-#### Lecture 7: [Security](https://www.youtube.com/watch?v=Qkf9QwSfHAM)
+#### Lecture 6: [Security](https://www.youtube.com/watch?v=Qkf9QwSfHAM)
 > Hackers away! This lecture will introduce common vulnerability issues in Solana programs, how they can be exploited, and, most importantly, how to avoid them.
+
+#### Lecture 7: Front-end for Solana Programs
+> Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
 
 #### Lecture 8: Final Lecture aka Graduation
 > In this final lecture, we will wrap up the School of Solana and showcase some of the best final projects.
