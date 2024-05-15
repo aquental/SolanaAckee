@@ -34,7 +34,7 @@
 #### Lecture 6: Front-end for Solana Programs
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
 
-#### Lecture 7: Security
+#### Lecture 7: [Security](https://www.youtube.com/watch?v=Qkf9QwSfHAM)
 > Hackers away! This lecture will introduce common vulnerability issues in Solana programs, how they can be exploited, and, most importantly, how to avoid them.
 
 #### Lecture 8: Final Lecture aka Graduation
