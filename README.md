@@ -50,5 +50,7 @@
 #### Lecture 8: Final Lecture aka Graduation
 > In this final lecture, we will wrap up the School of Solana and showcase some of the best final projects.
 
-#### Lecture 9: [Bonus: SPL Token Program & Gaming](https://www.youtube.com/watch?v=iwa8SPuAjIk)
+#### Lecture 9: [Token-2022 Program: Token Extensions](https://youtu.be/Wg86rRA06Hw)
+> [code](https://github.com/Ackee-Blockchain/sos-bonus-lecture-escrow)
+> 
 > 💰SPL Tokens- The tokens are everywhere! This lecture will show how to implement a simple program dealing with arbitrary SPL tokens.🕹️Gaming- Gaming is fun! Our guest lecturer, Jonas Hahn, from Solana Foundation, will show you how to implement a simple game on Solana using the Unity SDK.
