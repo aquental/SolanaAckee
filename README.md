@@ -54,3 +54,7 @@
 > [code](https://github.com/Ackee-Blockchain/sos-bonus-lecture-escrow)
 > 
 > 💰SPL Tokens- The tokens are everywhere! This lecture will show how to implement a simple program dealing with arbitrary SPL tokens.🕹️Gaming- Gaming is fun! Our guest lecturer, Jonas Hahn, from Solana Foundation, will show you how to implement a simple game on Solana using the Unity SDK.
+
+#### Examples
+
+[Solana program examples](https://github.com/solana-developers/program-examples)
