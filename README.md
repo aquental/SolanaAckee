@@ -44,7 +44,7 @@
 > >
 > > [Module 6 - How to approach the Program Security module](https://www.soldev.app/course/security-intro)
 
-#### Lecture 7: Front-end for Solana Programs
+#### Lecture 7: [Front-end for Solana Programs](https://www.youtube.com/watch?v=EOyTLYxEtZQ)
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
 
 #### Lecture 8: Final Lecture aka Graduation
