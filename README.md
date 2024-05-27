@@ -46,6 +46,8 @@
 
 #### Lecture 7: [Front-end for Solana Programs](https://www.youtube.com/watch?v=EOyTLYxEtZQ)
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
+>
+> 💻 Lecture 7 [source code](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/7.lesson)
 
 #### Lecture 8: Final Lecture aka Graduation
 > In this final lecture, we will wrap up the School of Solana and showcase some of the best final projects.
