@@ -64,7 +64,6 @@
 #### Bonus lecture 3: [Fuzz Testing Solana Programs with Trident](https://youtu.be/5Lq8iEbMFbs)
 > [code](https://github.com/Ackee-Blockchain/sos-trident)
 
-
 #### Examples
 
 [Solana program examples](https://github.com/solana-developers/program-examples)
