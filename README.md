@@ -48,6 +48,8 @@
 
 #### Lecture 6: [Security](https://www.youtube.com/watch?v=Qkf9QwSfHAM)
 
+[lesson 6](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/6.lesson)
+
 > Hackers away! This lecture will introduce common vulnerability issues in Solana programs, how they can be exploited, and, most importantly, how to avoid them.
 >
 > Task: [5](https://github.com/School-of-Solana/task5-aquental)
@@ -61,6 +63,8 @@
 > > [Module 6 - How to approach the Program Security module](https://www.soldev.app/course/security-intro)
 
 #### Lecture 7: [Front-end for Solana Programs](https://www.youtube.com/watch?v=EOyTLYxEtZQ)
+
+[lesson 7](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/7.lesson)
 
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
 >
