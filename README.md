@@ -4,7 +4,9 @@
 
 **Start date**: April 10, 2024
 
-[Solana Handbook](./handbook/solana-handbook.pdf)
+[old Solana Handbook](./handbook/solana-handbook.pdf)
+
+[new Solana Handbook](https://ackee.xyz/solana/book/latest/)
 
 #### Lecture 1: [Introduction to Solana and Blockchain](https://youtu.be/okqyfP_h_54)
 
