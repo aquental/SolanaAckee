@@ -1,6 +1,6 @@
 # Ackee - _School of Solana_
 
-### Season 5
+### Season 6
 
 **Start date**: April 10, 2024
 
