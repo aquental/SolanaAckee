@@ -1,8 +1,8 @@
 # Ackee - _School of Solana_
 
-### Season 6
+### Season 7
 
-**Start date**: April 10, 2024
+**Start date**: July ??, 2025
 
 [old Solana Handbook](./handbook/solana-handbook.pdf)
 
