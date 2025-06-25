@@ -2,7 +2,7 @@
 
 ### Season 7
 
-**Start date**: July ??, 2025
+**Start date**: July 16, 2025
 
 [old Solana Handbook](./handbook/solana-handbook.pdf)
 
