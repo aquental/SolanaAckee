@@ -4,29 +4,29 @@
 
 **Start date**: July 16, 2025
 
-[old Solana Handbook](./handbook/solana-handbook.pdf)
+[Solana Handbook](https://ackee.xyz/solana/book/latest/)
 
-[new Solana Handbook](https://ackee.xyz/solana/book/latest/)
-
-#### Lecture 1: [Introduction to Solana and Blockchain](https://youtu.be/okqyfP_h_54)
+#### Lecture 1: [Introduction to Solana and Blockchain](https://youtu.be/vrO6cjdPUOs) ✔️
 
 [lesson 1](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/1.lesson)
 
 > Proof of History, Sealevel, and other Solana fundamentals. We will also go through a proper local development setup to get you started in this course.
+> 📆 due July 23, 2025
 
-#### Lecture 2: [Rust Introduction](https://youtu.be/PXf9iT2GJYU)
+#### Lecture 2: [Rust Introduction](???) 🔲
 
 [lesson 2](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/2.lesson)
 
-> A gentle introduction to Rust programming language. Principles behind Rust and how they tie to Solana program development.
+> A gentle introduction to the Rust programming language. Principles behind Rust and how they tie to Solana program development.
+> 📆 due July 30, 2025
 
-#### Lecture 3: [Solana programming model I](https://www.youtube.com/watch?v=Plp4y27LNWs)
+#### Lecture 3: [Solana programming model I](???) 🔲
 
 [lesson 3](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/3.lesson)
 
-> Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will review all the important core concepts of Solana development: Accounts structure, Program Derived Addresses, Handling errors, and Cross-Program Invocations.
+> Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will review the key core concepts of Solana development, including account structure, Program-Derived Addresses, error handling, and Cross-Program Invocations.
 
-#### Lecture 4: [Solana programming model II](https://youtu.be/Cai1Orc1NuI)
+#### Lecture 4: [Solana programming model II](???) 🔲
 
 [lesson 4](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/4.lesson)
 
@@ -34,9 +34,9 @@
 >
 > 💻 Lecture 4 [source code](https://github.com/Ackee-Blockchain/wsos-bank)
 >
-> 📆 due May 15, 2024, 23:59 UTC
+> 📆 due August 6, 2025
 
-#### Lecture 5: [Best development practices and debugging](https://www.youtube.com/watch?v=rL1fqxUnqOQ)
+#### Lecture 5: [Best development practices and debugging](???)
 
 [lesson 5](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/5.lesson)
 
@@ -46,9 +46,9 @@
 >
 > 💻 Lecture 5 [source code](https://github.com/Ackee-Blockchain/sos-debugging-lecture)
 >
-> 📆 due May 29, 2024, 23:59 UTC
+> 📆 due August 13, 2025
 
-#### Lecture 6: [Security](https://www.youtube.com/watch?v=Qkf9QwSfHAM)
+#### Lecture 6: [Security](???)
 
 [lesson 6](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/6.lesson)
 
@@ -56,7 +56,7 @@
 >
 > Task: [5](https://github.com/School-of-Solana/task5-aquental)
 >
-> 📆 Task 5 is due May 22, 2024, 23:59 UTC
+> 📆 due August 20, 2025
 >
 > > **SolDev**
 > >
@@ -64,7 +64,7 @@
 > >
 > > [Module 6 - How to approach the Program Security module](https://www.soldev.app/course/security-intro)
 
-#### Lecture 7: [Front-end for Solana Programs](https://www.youtube.com/watch?v=EOyTLYxEtZQ)
+#### Lecture 7: [Front-end for Solana Programs](???)
 
 [lesson 7](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/7.lesson)
 
