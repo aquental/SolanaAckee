@@ -10,21 +10,22 @@
 
 [lesson 1](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/1.lesson)
 
-> Proof of History, Sealevel, and other Solana fundamentals. We will also go through a proper local development setup to get you started in this course.
+> Proof of History, Sealevel, and other Solana fundamentals. We will also go through a proper local development setup to get you started in this course.   
 > 📆 due July 23, 2025
 
 #### Lecture 2: [Rust Introduction](???) 🔲
 
 [lesson 2](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/2.lesson)
 
-> A gentle introduction to the Rust programming language. Principles behind Rust and how they tie to Solana program development.
+> A gentle introduction to the Rust programming language. Principles behind Rust and how they tie to Solana program development.   
 > 📆 due July 30, 2025
 
 #### Lecture 3: [Solana programming model I](???) 🔲
 
 [lesson 3](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/3.lesson)
 
-> Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will review the key core concepts of Solana development, including account structure, Program-Derived Addresses, error handling, and Cross-Program Invocations.
+> Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will review the key core concepts of Solana development, including account structure, Program-Derived Addresses, error handling, and Cross-Program Invocations.   
+> 📆 due August 6, 202
 
 #### Lecture 4: [Solana programming model II](???) 🔲
 
@@ -34,7 +35,7 @@
 >
 > 💻 Lecture 4 [source code](https://github.com/Ackee-Blockchain/wsos-bank)
 >
-> 📆 due August 6, 2025
+> 📆 due August 13, 2025
 
 #### Lecture 5: [Best development practices and debugging](???)
 
@@ -46,7 +47,7 @@
 >
 > 💻 Lecture 5 [source code](https://github.com/Ackee-Blockchain/sos-debugging-lecture)
 >
-> 📆 due August 13, 2025
+> 📆 due August 20, 2025
 
 #### Lecture 6: [Security](???)
 
@@ -56,7 +57,7 @@
 >
 > Task: [5](https://github.com/School-of-Solana/task5-aquental)
 >
-> 📆 due August 20, 2025
+> 📆 due August ??, 2025
 >
 > > **SolDev**
 > >
@@ -70,11 +71,13 @@
 
 > Make your program alive! This lecture will show how to implement a simple front end for our Bank app using the official Solana scaffold.
 >
-> 💻 Lecture 7 [source code](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/7.lesson)
+> 💻 Lecture 7 [source code](https://github.com/Ackee-Blockchain/school-of-solana/tree/master/7.lesson)   
+> 📆 due August ??, 2025
 
 #### Lecture 8: Final Lecture aka Graduation
 
 > In this final lecture, we will wrap up the School of Solana and showcase some of the best final projects.
+> 📆 due September ??, 2025
 
 #### Bonus lecture 1: [SPL Tokens](https://youtu.be/iwa8SPuAjIk)
 
@@ -93,5 +96,3 @@
 #### Examples
 
 [Solana program examples](https://github.com/solana-developers/program-examples)
-
-
